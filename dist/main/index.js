@@ -217,8 +217,8 @@ const StableVersion = '3.0';
 const pkgs = {
     "win32": {
         "v3_0":{
-            "laz64": "lazarus-3.0-fpc-3.2.2-win32.exe",
-            "laz32": "lazarus-3.0-fpc-3.2.2-cross-x86_64-win64-win32.exe"
+            "laz64": "lazarus-3.0-fpc-3.2.2-win64.exe",
+            "laz32": "lazarus-3.0-fpc-3.2.2-cross-i386-win32-win64.exe"
         },
         "v2_2_6":{
             "laz64": "lazarus-2.2.6-fpc-3.2.2-win64.exe",
@@ -251,8 +251,8 @@ const pkgs = {
     },
     "win64": {
         "v3_0":{
-            "laz64": "lazarus-3.0-fpc-3.2.2-win32.exe",
-            "laz32": "lazarus-3.0-fpc-3.2.2-cross-x86_64-win64-win32.exe"
+            "laz64": "lazarus-3.0-fpc-3.2.2-win64.exe",
+            "laz32": "lazarus-3.0-fpc-3.2.2-cross-i386-win32-win64.exe"
         },
         "v2_2_6":{
             "laz64": "lazarus-2.2.6-fpc-3.2.2-win64.exe",
